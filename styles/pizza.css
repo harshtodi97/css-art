@@ -1,0 +1,176 @@
+.base {
+  position: relative;
+  top: 14.3%;
+  left: 25%;
+  width: 50%;
+  height: 71.4%;
+  background: #e2a01d;
+  border-radius: 50%;
+}
+
+.ribbon {
+  position: relative;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+  background: #992600;
+  border-radius: 50%;
+}
+
+.sauce {
+  position: relative;
+  top: 2.5%;
+  left: 2.5%;
+  width: 95%;
+  height: 95%;
+  background: #ff6347;
+  border-radius: 50%;
+}
+
+.cheese {
+  position: relative;
+  top: 4%;
+  left: 4%;
+  width: 92%;
+  height: 92%;
+  background: #ffd867;
+  border-radius: 50%;
+}
+
+.pepperoni-1 {
+  position: relative;
+  width: 13%;
+  height: 11%;
+  border-radius: 70%;
+  background: #b21807;
+}
+
+.pepperoni-1.right {
+  top: 20%;
+  left: 70%;
+}
+.pepperoni-1.left {
+  top: 15%;
+  left: 20%;
+}
+
+.pepperoni-2 {
+  position: relative;
+  width: 10%;
+  height: 12%;
+  border-radius: 70%;
+  background: #b21807;
+}
+
+.pepperoni-2.right {
+  top: 40%;
+  left: 80%;
+}
+.pepperoni-2.left {
+  bottom: 10%;
+  left: 50%;
+}
+
+.pepperoni-3 {
+  position: relative;
+  width: 15%;
+  height: 12%;
+  border-radius: 70%;
+  background: #b21807;
+}
+
+.pepperoni-3.right {
+  bottom: 15%;
+  left: 35%;
+}
+.pepperoni-3.left {
+  top: 20%;
+  left: 50%;
+}
+
+.olives {
+  position: relative;
+  width: 9%;
+  height: 9%;
+  border-radius: 50%;
+  background: #080b05;
+}
+.olives-inside {
+  position: relative;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  background: #ffd867;
+}
+
+.olives.one {
+  bottom: 50%;
+  left: 20%;
+}
+.olives.two {
+  left: 30%;
+}
+.olives.three {
+  bottom: 30%;
+  left: 60%;
+}
+.olives.four {
+  bottom: 60%;
+  left: 80%;
+}
+
+.onion-ring-one {
+  position: relative;
+  border-radius: 50%;
+  background: #a5809f;
+}
+.onion-ring-two {
+  position: relative;
+  top: 7.5%;
+  left: 7.5%;
+  width: 85%;
+  height: 85%;
+  border-radius: 50%;
+  background: white;
+}
+
+.onion-ring-one.main {
+  width: 15%;
+  height: 15%;
+}
+.onion-ring-one.secondary {
+  top: 15%;
+  left: 15%;
+  width: 70%;
+  height: 70%;
+}
+.onion-ring-one.tertiary {
+  top: 15%;
+  left: 15%;
+  width: 70%;
+  height: 70%;
+}
+
+.onion-ring-one.main.one {
+  bottom: 42%;
+  left: 15%;
+}
+.onion-ring-one.main.two {
+  bottom: 49%;
+  left: 70%;
+}
+.onion-ring-one.main.three {
+  bottom: 105%;
+  left: 25%;
+}
+.onion-ring-one.main.four {
+  bottom: 133%;
+  left: 50%;
+}
+.onion-ring-one.main.five {
+  bottom: 110%;
+  left: 40%;
+}
